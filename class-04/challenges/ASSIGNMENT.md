@@ -2,6 +2,7 @@
 
 ## Overview
 
+<<<<<<< HEAD
 Read [this overview.](README.md)
 
 ## Video
@@ -11,6 +12,18 @@ Watch today's video from the [demo playlist.](https://www.youtube.com/playlist?l
 ## Demonstration
 
 Look through [these sample problems.](DEMO.md)
+=======
+Read [this overview.](README.md){:target="_blank"}
+
+## Video
+
+Watch today's video from the [demo playlist.](https://www.youtube.com/playlist?list=PLVngfM2hsbi-L6G8qlWd8RyRbuTamHt3k){:target="_blank"}
+
+## Demonstration
+
+Look through [these sample problems.](DEMO.md){:target="_blank"}
+
+>>>>>>> 0c305f1f01048b4b43da35d0340665b34c64ee6e
 ## Challenges
 
 1. Check out a new branch in your `data-structures-and-algorithms` repository.
