@@ -1,6 +1,6 @@
 # Readings
 
-- Essential: [Heroku: Getting Started with Node](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction){:target="_blank"} - Complete all of the steps through "View logs"
+- Essential: [Heroku: Getting Started with Node](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) - Complete all of the steps through "View logs"
 - Skim: [Deploying a Simple Blog to Heroku](https://howtonode.org/deploy-blog-to-heroku)
 
 ## Discuss
