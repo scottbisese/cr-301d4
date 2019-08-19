@@ -1,9 +1,7 @@
 # Readings
 
-- Essential: [CSS Grid Garden](https://cssgridgarden.com/) - Complete all steps of this tutorial
-- Reference: [RegExr](https://regexr.com/) - Pay particular attention to the cheatsheet
-- Reference: [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
-- Reference: [Regex 101](https://regex101.com/)
+- Essential: [Heroku: Getting Started with Node](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) - Complete all of the steps through "View logs"
+- Skim: [Deploying a Simple Blog to Heroku](https://howtonode.org/deploy-blog-to-heroku)
 
 ## Discuss
 

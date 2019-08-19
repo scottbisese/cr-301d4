@@ -1,8 +1,9 @@
-# Code Challenge 04: Regular Expressions, part 1
+# Code Challenge 05: String Methods
+
+Fun with split, join, slice, and splice!
 
 ## Overview
 
-<<<<<<< HEAD
 Read [this overview.](README.md)
 
 ## Video
@@ -12,24 +13,13 @@ Watch today's video from the [demo playlist.](https://www.youtube.com/playlist?l
 ## Demonstration
 
 Look through [these sample problems.](DEMO.md)
-=======
-Read [this overview.](README.md){:target="_blank"}
 
-## Video
-
-Watch today's video from the [demo playlist.](https://www.youtube.com/playlist?list=PLVngfM2hsbi-L6G8qlWd8RyRbuTamHt3k){:target="_blank"}
-
-## Demonstration
-
-Look through [these sample problems.](DEMO.md){:target="_blank"}
-
->>>>>>> 0c305f1f01048b4b43da35d0340665b34c64ee6e
 ## Challenges
 
 1. Check out a new branch in your `data-structures-and-algorithms` repository.
 1. Make a new directory in the `code-challenges` directory of your repo named with the challenge for the day.
-1. Create a file in this new directory named `challenges-04.test.js`.
-1. Copy and paste the **entire content** of today's [code challenge](challenges-04.test.js){:target="_blank"} into the new file.
+1. Create a file in this new directory named `challenges-05.test.js`.
+1. Copy and paste the **entire content** of today's [code challenge](challenges-05.test.js)into the new file.
 1. Run `npm test` to execute the tests in the folder for today's challenge.
 1. Write code to make the tests pass, one at a time. Let the error messages guide you.
 1. Once the test is passing, refactor as needed, then move on to the next challenge.
